@@ -2,7 +2,11 @@
 
 
 - 🔭  Cursando Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando Java
+
+- Estudando Java <img alt="EdnaldoLuiz-Java" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
+
+- Estudando html-css <img align="center" alt="EdnaldoLuiz-HTML" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="EdnaldoLuiz-CSS" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 <div align="center">
   <a href="https://github.com/EdnaldoLuiz">
