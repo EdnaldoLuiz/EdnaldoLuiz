@@ -1,12 +1,6 @@
-### Eae, sou o Ednaldo Luiz 👋
-
-
-- 🔭  Cursando Análise e Desenvolvimento de Sistemas
-
-- Estudando Java <img alt="EdnaldoLuiz-Java" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
-
-- Estudando html-css <img align="center" alt="EdnaldoLuiz-HTML" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="EdnaldoLuiz-CSS" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<!-- info sobre mim -->
+<p align="center">
+<a href="https://git.io/typing-svg%22%3E"><img src="https://readme-typing-svg.demolab.com/?font=&weight=500&size=20&pause=1000&color=39A2F7&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Ednaldo+Luiz+%3A);Estudando+novas+tecnologias+e+cursando;An%C3%A1lise+e+Desenvolvimento+de+Sistemas" alt="Typing SVG"/></a></p>
 
 <div align="center">
   <a href="https://github.com/EdnaldoLuiz">
