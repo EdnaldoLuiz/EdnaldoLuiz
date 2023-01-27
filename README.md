@@ -1,6 +1,6 @@
 <!-- info sobre mim -->
 <p align="center">
-<a href="https://git.io/typing-svg%22%3E"><img src="https://readme-typing-svg.demolab.com/?font=&weight=500&size=20&pause=1000&color=39A2F7&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Ednaldo+Luiz+%3A);Estudando+novas+tecnologias+e+cursando;An%C3%A1lise+e+Desenvolvimento+de+Sistemas" alt="Typing SVG"/></a></p>
+<a href="https://git.io/typing-svg%22%3E"><img src="https://readme-typing-svg.demolab.com/?font=&weight=500&size=19&pause=1000&color=39A2F7&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Ednaldo+Luiz+%3A);Estudando+novas+tecnologias+e+cursando;An%C3%A1lise+e+Desenvolvimento+de+Sistemas" alt="Typing SVG"/></a></p>
 
 <div align="center">
   <a href="https://github.com/EdnaldoLuiz">
