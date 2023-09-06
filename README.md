@@ -37,10 +37,10 @@
 ## 📊 My GitHub Stats:
 
 <div align="center">
-  <img width=90% src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EdnaldoLuiz&theme=algolia">
-  <img width=45% src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EdnaldoLuiz&theme=algolia&exclude=HTML">
-  <img width=45% src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EdnaldoLuiz&theme=algolia">
-  <img width=90% src="https://streak-stats.demolab.com?user=EdnaldoLuiz&theme=algolia&hide_border=true">  
+  <img width=98% src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EdnaldoLuiz&theme=algolia">
+  <img width=49% src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EdnaldoLuiz&theme=algolia&exclude=HTML">
+  <img width=49% src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EdnaldoLuiz&theme=algolia">
+  <img width=98% src="https://streak-stats.demolab.com?user=EdnaldoLuiz&theme=algolia&hide_border=true">  
   <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EdnaldoLuiz&theme=algolia&utcOffset=-3"> -->
 </div>
 
