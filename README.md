@@ -47,10 +47,18 @@
 ## 🌟 Best works:
 
 <div align="center">
-  <img width=49% src="https://svg.bookmark.style/api?url=https://github.com/EdnaldoLuiz/TaskMe-CRUD&mode=dark&style=vertical">
-  <img width=49% src="https://svg.bookmark.style/api?url=https://github.com/EdnaldoLuiz/HTML-Tags-Searcher&mode=dark&style=vertical">
-  <img width=49% src="https://svg.bookmark.style/api?url=https://github.com/EdnaldoLuiz/Teki&mode=dark&style=vertical">
-  <img width=49% src="https://svg.bookmark.style/api?url=https://github.com/EdnaldoLuiz/HELP_UP_PROJECT&mode=dark&style=vertical">
+  <a href="https://github.com/EdnaldoLuiz/TaskMe-CRUD" target="_blank">
+    <img width=49% src="https://svg.bookmark.style/api?url=https://github.com/EdnaldoLuiz/TaskMe-CRUD&mode=dark&style=vertical">
+  </a>
+  <a href="https://github.com/EdnaldoLuiz/HTML-Tags-Searcher" target="_blank">
+    <img width=49% src="https://svg.bookmark.style/api?url=https://github.com/EdnaldoLuiz/HTML-Tags-Searcher&mode=dark&style=vertical">
+  </a>
+  <a href="https://github.com/EdnaldoLuiz/Teki" target="_blank">
+    <img width=49% src="https://svg.bookmark.style/api?url=https://github.com/EdnaldoLuiz/Teki&mode=dark&style=vertical">
+  </a>
+  <a href="https://github.com/EdnaldoLuiz/HELP_UP_PROJECT" target="_blank">
+    <img width=49% src="https://svg.bookmark.style/api?url=https://github.com/EdnaldoLuiz/HELP_UP_PROJECT&mode=dark&style=vertical">
+  </a>
 </div>
 
 
