@@ -38,11 +38,11 @@
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats-ednaldoluiz.vercel.app/api?username=EdnaldoLuiz&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
+  <img width="70%" src="https://github-readme-stats-ednaldoluiz.vercel.app/api?username=EdnaldoLuiz&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
   <br>
-  <img height="180em" src="https://github-readme-stats-ednaldoluiz.vercel.app/api/top-langs/?username=EdnaldoLuiz&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img width="70%" src="https://github-readme-stats-ednaldoluiz.vercel.app/api/top-langs/?username=EdnaldoLuiz&layout=compact&langs_count=8&theme=tokyonight"/>
   <br>
-  <img height="180em" src="https://streak-stats.demolab.com?user=EdnaldoLuiz&theme=tokyonight">
+  <img width="70%" src="https://streak-stats.demolab.com?user=EdnaldoLuiz&theme=tokyonight">
   
 </div>
 
