@@ -44,10 +44,13 @@
   <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EdnaldoLuiz&theme=algolia&utcOffset=-3"> -->
 </div>
 
-## 🌟 My Best works:
+## 🌟 Best works:
 
 <div align="center">
-  <img width=98% src="https://svg.bookmark.style/api?url=https://github.com/EdnaldoLuiz/TaskMe-CRUD&mode=dark&style=horizontal">
+  <img width=49% src="https://svg.bookmark.style/api?url=https://github.com/EdnaldoLuiz/TaskMe-CRUD&mode=dark&style=vertical">
+  <img width=49% src="https://svg.bookmark.style/api?url=https://github.com/EdnaldoLuiz/HTML-Tags-Searcher&mode=dark&style=vertical">
+  <img width=49% src="https://svg.bookmark.style/api?url=https://github.com/EdnaldoLuiz/Teki&mode=dark&style=vertical">
+  <img width=49% src="https://svg.bookmark.style/api?url=https://github.com/EdnaldoLuiz/HELP_UP_PROJECT&mode=dark&style=vertical">
 </div>
 
 
