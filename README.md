@@ -1,8 +1,11 @@
-# I'm Ednaldo Luiz, Welcome to my GitHub!
+# ☕ I'm Ednaldo Luiz, Welcome to my GitHub!
 
 <div align="center">
-<a href="https://git.io/typing-svg%22%3E"><img src="https://readme-typing-svg.demolab.com/?font=&weight=500&size=19&pause=1000&color=39A2F7&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Ednaldo+Luiz+%3A);Sou+um+Dev+focado+em+Back-end;Estudando+novas+tecnologias+e+cursando;An%C3%A1lise+e+Desenvolvimento+de+Sistemas" alt="Typing SVG"/></a>
+<!-- <a href="https://git.io/typing-svg%22%3E"><img src="https://readme-typing-svg.demolab.com/?font=&weight=500&size=19&pause=1000&color=39A2F7&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Ednaldo+Luiz+%3A);Sou+um+Dev+focado+em+Back-end;Estudando+novas+tecnologias+e+cursando;An%C3%A1lise+e+Desenvolvimento+de+Sistemas" alt="Typing SVG"/></a> -->
+  <img src="https://github.com/EdnaldoLuiz/EdnaldoLuiz/assets/112354693/2a315652-55ee-4c5b-9164-4759391ede30">
 </div>
+
+
 
 ## 📱 Contact me:
 
