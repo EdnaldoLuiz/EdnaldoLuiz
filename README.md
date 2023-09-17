@@ -1,7 +1,14 @@
 # ☕ I'm Ednaldo Luiz, Welcome to my GitHub!
 
-<div align="center">
-  <img src="https://github.com/EdnaldoLuiz/EdnaldoLuiz/assets/112354693/2a315652-55ee-4c5b-9164-4759391ede30">
+<div align="left">
+  <ul>
+   <li>🔭 I’m currently studying Systems Development</li>
+   <li>🌱 I’m currently learning Spring Boot and Angular</li>
+   <li>👯 I’m looking to collaborate or create projects to enhance my skills</li>
+   <li>💬 Ask me about Java</li>
+   <li>👩‍💻 I often write posts on Linkedin</li>
+   
+  </ul>
 </div>
 
 ## 📱 Contact me:
@@ -20,12 +27,12 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,angular,bootstrap,javascript" />
+    <img src="https://skillicons.dev/icons?i=html,css,angular,javascript" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,vercel,aws,postman" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,vercel,postman" />
   </a>
 </p>
   
