@@ -4,7 +4,7 @@
   <ul>
    <li>🔭 I’m currently studying Systems Development</li>
    <li>🌱 I’m currently learning Spring Boot and Angular</li>
-   <li>👯 I’m looking to collaborate or create projects to enhance my skills</li>
+   <li>🙋‍♂️ I’m looking to collaborate or create projects to enhance my skills</li>
    <li>💬 Ask me about Java</li>
    <li>👩‍💻 I often write posts on Linkedin</li>
    
