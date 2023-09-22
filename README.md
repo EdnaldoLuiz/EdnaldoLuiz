@@ -11,7 +11,7 @@
   </ul>
 </div>
 
-## 📱 Contact me:
+## 📱 Contact and reach me:
 
 <div>
   <a href="https://br.linkedin.com/in/ednaldo-luiz-4892a624a?trk=people-guest_people_search-card" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
