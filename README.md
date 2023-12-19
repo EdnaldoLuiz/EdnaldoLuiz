@@ -19,7 +19,6 @@
 
 ## 📖 More about me:
 
-
 <div align=center>
   <a href="https://github.com/EdnaldoLuiz/EdnaldoLuiz/blob/main/.github/Ednaldo_Luiz_CV.pdf" download><img src="https://img.shields.io/badge/My CV-003E54?style=for-the-badge&logo=biolink&logoColor=white" target="_blank"></a>
   <a href="https://ednaldo-luiz.vercel.app/contato" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a>
@@ -29,7 +28,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,nodejs" />
   </a>
 </p>
 <p align="center">
