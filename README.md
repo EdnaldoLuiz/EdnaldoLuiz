@@ -67,7 +67,6 @@
   <a href="https://github.com/EdnaldoLuiz/HELP_UP_PROJECT" target="_blank">
     <img width=49% src="https://svg.bookmark.style/api?url=https://github.com/EdnaldoLuiz/HELP_UP_PROJECT&mode=dark&style=vertical">
   </a>
-  <img width=98% src="https://streak-stats.demolab.com?user=EdnaldoLuiz&theme=algolia&hide_border=true">
 </div>
 
   
