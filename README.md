@@ -36,9 +36,12 @@
     <img src="https://skillicons.dev/icons?i=html,css,angular,javascript,typescript" />
   </a>
 </p>
+
+## 🛠️ Tools:
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,vercel,postman,docker" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,vercel,postman,docker,aws" />
   </a>
 </p>
   
