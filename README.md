@@ -41,7 +41,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,vercel,postman,docker,aws" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,idea,vercel,postman,docker,aws" />
   </a>
 </p>
   
