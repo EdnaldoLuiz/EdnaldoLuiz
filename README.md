@@ -61,14 +61,14 @@
   <a href="https://github.com/EdnaldoLuiz/to-day-list" target="_blank">
     <img width=49% src="https://svg.bookmark.style/api?url=https://github.com/EdnaldoLuiz/to-day-list&mode=dark&style=vertical">
   </a>
+  <a href="https://github.com/EdnaldoLuiz/market-manager" target="_blank">
+    <img width=49% src="https://svg.bookmark.style/api?url=https://github.com/EdnaldoLuiz/market-manager&mode=dark&style=vertical">
+  </a>
   <a href="https://github.com/EdnaldoLuiz/TaskMe-CRUD" target="_blank">
     <img width=49% src="https://svg.bookmark.style/api?url=https://github.com/EdnaldoLuiz/TaskMe-CRUD&mode=dark&style=vertical">
   </a>
   <a href="https://github.com/EdnaldoLuiz/Teki" target="_blank">
     <img width=49% src="https://svg.bookmark.style/api?url=https://github.com/EdnaldoLuiz/Teki&mode=dark&style=vertical">
-  </a>
-  <a href="https://github.com/EdnaldoLuiz/HELP_UP_PROJECT" target="_blank">
-    <img width=49% src="https://svg.bookmark.style/api?url=https://github.com/EdnaldoLuiz/HELP_UP_PROJECT&mode=dark&style=vertical">
   </a>
 </div>
 
