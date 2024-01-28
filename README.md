@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,nodejs" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres" />
   </a>
 </p>
 <p align="center">
@@ -49,7 +49,7 @@
 
 <div align="center">
   <img width=98% src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EdnaldoLuiz&theme=algolia">
-  <img width=49% src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EdnaldoLuiz&theme=algolia&exclude=HTML,PHP">
+  <img width=49% src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EdnaldoLuiz&theme=algolia&exclude=HTML">
   <img width=49% src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EdnaldoLuiz&theme=algolia">
   <img width=98% src="https://streak-stats.demolab.com?user=EdnaldoLuiz&theme=algolia&hide_border=true">
   <!-- <img width=98% src="https://streak-stats-dusky-theta.com?user=EdnaldoLuiz&theme=algolia&hide_border=true"> -->
