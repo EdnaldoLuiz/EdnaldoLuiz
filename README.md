@@ -28,7 +28,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,redis" />
   </a>
 </p>
 <p align="center">
