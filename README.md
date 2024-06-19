@@ -46,7 +46,15 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,idea,vercel,postman,docker,aws" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,idea,vercel,postman,docker" />
+  </a>
+</p>
+
+## 📖 Currently Learning:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,react,mongodb" />
   </a>
 </p>
   
