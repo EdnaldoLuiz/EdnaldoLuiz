@@ -2,8 +2,8 @@
 
 <div align="left">
   <ul>
-   <li>🔭 I’m currently studying Systems Development</li>
-   <li>🌱 I’m currently learning Spring Boot and Angular</li>
+   <li>☁️ I’m currently studying Software Architecture and Cloud Computing</li>
+   <li>📚 I’m currently learning Microservices and Front-end frameworks</li>
    <li>🙋‍♂️ I’m looking to collaborate or create projects to enhance my skills</li>
    <li>💬 Ask me about Java</li>
    <li>👩‍💻 I often write posts on Linkedin</li>
@@ -28,12 +28,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,python" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,redis" />
+    <img src="https://skillicons.dev/icons?i=mysql,redis" />
   </a>
 </p>
 <p align="center">
@@ -54,7 +54,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,react,mongodb" />
+    <img src="https://skillicons.dev/icons?i=aws,react" />
   </a>
 </p>
 
