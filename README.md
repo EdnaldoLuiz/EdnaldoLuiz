@@ -20,7 +20,6 @@
 ## 📖 More about me:
 
 <div align=center>
-  <a href="https://github.com/EdnaldoLuiz/EdnaldoLuiz/blob/main/.github/Ednaldo_Luiz_CV.pdf" download><img src="https://img.shields.io/badge/My CV-003E54?style=for-the-badge&logo=biolink&logoColor=white" target="_blank"></a>
   <a href="https://ednaldo-luiz.vercel.app/contato" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a>
 </div>
 
@@ -28,17 +27,22 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,python" />
+    <img src="https://skills-icons.vercel.app/api/icons?i=java,spring,hibernate,python" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,redis" />
+    <img src="https://skills-icons.vercel.app/api/icons?i=mysql,redis,mongodb" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,angular,javascript,typescript" />
+    <img src="https://skills-icons.vercel.app/api/icons?i=html,css,sass,angular,javascript,typescript" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skills-icons.vercel.app/api/icons?i=junit5,cucumber,archunit,testcontainers,swagger" />
   </a>
 </p>
 
@@ -46,7 +50,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,idea,vercel,postman,docker" />
+    <img src="https://skills-icons.vercel.app/api/icons?i=git,vscode,idea,vercel,postman,docker,intellij,datagrip" />
   </a>
 </p>
 
@@ -54,7 +58,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,react" />
+    <img src="https://skills-icons.vercel.app/api/icons?i=aws,react" />
   </a>
 </p>
 
