@@ -45,6 +45,11 @@
     <img src="https://skills-icons.vercel.app/api/icons?i=junit5,cucumber,archunit,testcontainers,swagger" />
   </a>
 </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skills-icons.vercel.app/api/icons?i=langchain,spark" />
+  </a>
+</p>
 
 ## 🛠️ Tools:
 
