@@ -1,3 +1,8 @@
+<div align=center>
+  <img src="https://github.com/user-attachments/assets/0d994c6a-1372-4e93-9a98-4736cb4df716" width=1380px>
+</div>
+
+
 # ☕ I'm Ednaldo Luiz, Welcome to my GitHub!
 
 <div align="left">
