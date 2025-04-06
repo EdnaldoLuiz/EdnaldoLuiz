@@ -2,26 +2,6 @@
   <img src="https://github.com/user-attachments/assets/0d994c6a-1372-4e93-9a98-4736cb4df716" width=1380px>
 </div>
 
-
-# ☕ I'm Ednaldo Luiz, Welcome to my GitHub!
-
-<div align="left">
-  <ul>
-   <li>☁️ I’m currently studying Software Architecture and Cloud Computing</li>
-   <li>📚 I’m currently learning Microservices and Front-end frameworks</li>
-   <li>🙋‍♂️ I’m looking to collaborate or create projects to enhance my skills</li>
-   <li>💬 Ask me about Java</li>
-   <li>👩‍💻 I often write posts on Linkedin</li>
-  </ul>
-</div>
-
-## 📱 Contact me:
-
-<div align=center>
-  <a href="https://br.linkedin.com/in/ednaldoluiz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:contatoednaldoluiz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
 ## 📖 More about me:
 
 <div align=center>
