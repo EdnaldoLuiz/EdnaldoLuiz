@@ -48,7 +48,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skills-icons.vercel.app/api/icons?i=aws,react" />
+    <img src="https://skills-icons.vercel.app/api/icons?i=aws,react,next" />
   </a>
 </p>
 
