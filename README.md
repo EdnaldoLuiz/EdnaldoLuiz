@@ -40,7 +40,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skills-icons.vercel.app/api/icons?i=git,vscode,idea,vercel,postman,docker,intellij,datagrip" />
+    <img src="https://skills-icons.vercel.app/api/icons?i=linux,git,vscode,idea,vercel,postman,docker,intellij,datagrip" />
   </a>
 </p>
 
