@@ -17,12 +17,12 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skills-icons.vercel.app/api/icons?i=mysql,redis,mongodb" />
+    <img src="https://skills-icons.vercel.app/api/icons?i=mysql,redis,mongodb,qdrant" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skills-icons.vercel.app/api/icons?i=html,css,sass,angular,javascript,typescript" />
+    <img src="https://skills-icons.vercel.app/api/icons?i=html,css,tailwind,angular,javascript,typescript" />
   </a>
 </p>
 <p align="center">
