@@ -5,7 +5,7 @@
 ## 📖 More about me:
 
 <div align=center>
-  <a href="https://ednaldo-luiz.vercel.app/contato" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a>
+  <a href="https://www.ednaldoluiz.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a>
 </div>
 
 ## 💻 My Tech Stack:
@@ -75,6 +75,7 @@
   <!-- <img width=98% src="https://streak-stats-dusky-theta.com?user=EdnaldoLuiz&theme=algolia&hide_border=true"> -->
 </div>
 
+<!-- 
 ## 🌟 Best works:
 
 <div align="center">
@@ -91,5 +92,5 @@
     <img width=49% src="https://svg.bookmark.style/api?url=https://github.com/EdnaldoLuiz/Teki&mode=dark&style=vertical">
   </a>
 </div>
-
+-->
   
