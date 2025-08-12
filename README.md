@@ -22,7 +22,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skills-icons.vercel.app/api/icons?i=html,css,tailwind,angular,javascript,typescript" />
+    <img src="https://skills-icons.vercel.app/api/icons?i=html,css,tailwind,angular,react,javascript,typescript" />
   </a>
 </p>
 <p align="center">
@@ -30,11 +30,11 @@
     <img src="https://skills-icons.vercel.app/api/icons?i=junit5,cucumber,archunit,testcontainers,swagger" />
   </a>
 </p>
-<p align="center">
+<!-- <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skills-icons.vercel.app/api/icons?i=langchain,spark" />
   </a>
-</p>
+</p> -->
 
 ## 🛠️ Tools:
 
@@ -48,7 +48,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skills-icons.vercel.app/api/icons?i=aws,react,nextjs" />
+    <img src="https://skills-icons.vercel.app/api/icons?i=aws,nextjs,langchain" />
   </a>
 </p>
 
