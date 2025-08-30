@@ -2,12 +2,6 @@
   <img src="https://github.com/user-attachments/assets/0d994c6a-1372-4e93-9a98-4736cb4df716" width=1380px>
 </div>
 
-## 📖 More about me:
-
-<div align=center>
-  <a href="https://www.ednaldoluiz.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a>
-</div>
-
 ## 💻 My Tech Stack:
 
 <p align="center">
