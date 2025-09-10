@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skills-icons.vercel.app/api/icons?i=linux,git,vscode,idea,vercel,postman,docker,intellij,datagrip,chatgpt" />
+    <img src="https://skills-icons.vercel.app/api/icons?i=aws,linux,git,vscode,idea,vercel,postman,docker,intellij,datagrip,chatgpt" />
   </a>
 </p>
 
@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skills-icons.vercel.app/api/icons?i=aws,nextjs,langchain" />
+    <img src="https://skills-icons.vercel.app/api/icons?i=nextjs,langchain" />
   </a>
 </p>
 
