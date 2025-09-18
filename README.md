@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skills-icons.vercel.app/api/icons?i=nextjs,langchain" />
+    <img src="https://skills-icons.vercel.app/api/icons?i=nextjs,langchain,terraform" />
   </a>
 </p>
 
